@@ -1,0 +1,13 @@
+body {
+  background-color: grey;
+}
+
+input{
+  background-color: rgb(245, 240, 240);
+  text-align:center;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+} 
